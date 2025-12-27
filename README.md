@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👩🏻‍💻 Jordana Martinelli
 
-<!--
-**JorMartinelli/JorMartinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência de Dados & Inteligência Artificial`**
 
-Here are some ideas to get you started:
+Me chamo **Jordana Martinelli**, tenho **18 anos** e sou natural de **Santa Catarina**.  
+Atualmente moro no **Rio de Janeiro**, onde curso o **3º período de Ciência de Dados e Inteligência Artificial na FGV**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em **análise de dados, inteligência artificial e tomada de decisão baseada em dados**, buscando evoluir constantemente através de estudos e projetos práticos.
+
+---
+
+## 🧠 Área de Atuação
+
+- 📊 Ciência de Dados  
+- 🤖 Inteligência Artificial  
+- 📈 Análise e Visualização de Dados  
+- 🧩 Pensamento analítico e resolução de problemas  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="40" title="Excel"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
+
+---
+
+✨ *Em constante aprendizado na área de dados e IA.*
+
