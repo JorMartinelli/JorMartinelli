@@ -35,11 +35,11 @@ Tenho interesse em **análise de dados, inteligência artificial e tomada de dec
 <p align="left">
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JorMartinelli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorMartinelli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
 
