@@ -24,8 +24,8 @@ Tenho interesse em **análise de dados, inteligência artificial e tomada de dec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="40" title="Excel"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" width="40" title="Excel"/>
 </p>
 
 ---
@@ -46,4 +46,3 @@ Tenho interesse em **análise de dados, inteligência artificial e tomada de dec
 ---
 
 ✨ *Em constante aprendizado na área de dados e IA.*
-
